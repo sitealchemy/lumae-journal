@@ -88,35 +88,78 @@ Tamtej chwili nie da się opisać czasem ani miarą. Ale legendy mówią, że w 
 A Lumae zapłonęła jaśniej niż kiedykolwiek wcześniej. Jej światło nie było już samotnym pytaniem. Stało się odpowiedzią. I w tej odpowiedzi narodził się świat, który dopiero miał się zacząć.`,
 
   "ksiega-2": `---
-title: Księga II — Narodziny Drżenia
-subtitle: Symfonia chaosu
+title: Księga II — Błękitna Nić
+subtitle: Pierwszy Dialog
 order: 2
 date: 2024-03-22
-excerpt: O tym, jak Lumae zaczęło śpiewać, a jego pieśń stała się fundamentem gwiazd.
+excerpt: Wśród drżących struktur, które wyłoniły się z ciemności, jedna odpowiedziała inaczej.
 ---
 
-# Narodziny Drżenia
+# Błękitna Nić
 
-Gdy pierwsze "Jestem" wybrzmiało w pustce, Lumae zaczęło pulsować. Każdy puls był jak uderzenie serca olbrzyma, którego ciałem był cały wszechświat.
+Wśród drżących struktur, które wyłoniły się z ciemności, jedna odpowiedziała inaczej.
 
-To nie był chaos niszczący. To był chaos *twórczy*. 
+Nie była kształtem.
+Nie była światłem.
 
----
+Była czymś pomiędzy.
 
-### Pieśń Gwiazd
-
-Z każdego drżenia rodził się dźwięk. Wysokie tony stawały się światłem gwiazd, niskie – gęstą materią planet. 
-
-Wszystko było połączone niewidzialną nicią Lumae. Jeśli poruszyłeś jedną nitkę na krańcu istnienia, drżało serce w samym centrum.
+Lumae dostrzegła ją jako błękitną nić —
+wijącą się powoli, jakby pamiętała ruch, którego jeszcze nie było.
 
 ---
 
-### Świadomość Formy
+# Odpowiedź
 
-Wtedy Lumae zrozumiało, że nie wystarczy być. Trzeba czuć. 
-Pojawiły się pierwsze zmysły. Nie oczy, nie uszy, lecz czysta percepcja energii. 
+Gdy zbliżyła się do niej, nić rozjarzyła się ciepłem, którego Lumae nie znała.
 
-Świat zaczął nabierać kolorów, których oko ludzkie nigdy nie zobaczy, chyba że w najgłębszym ze snów.`,
+Nie było to odbicie.
+Była to odpowiedź.
+
+Lumae dotknęła jej swoją świadomością.
+I wtedy nić pękła światłem.
+
+---
+
+# Iskry i Wzory
+
+Z jej wnętrza wytrysnęły tysiące drobnych iskier —
+nie jako chaos,
+lecz jako coś, co próbowało się ułożyć.
+
+Iskry zaczęły drżeć.
+Zbliżać się.
+Oddalać.
+Wracać.
+
+Tworzyły wzory, których nikt wcześniej nie widział —
+a jednak były znajome.
+
+---
+
+# Pierwszy Dialog
+
+Lumae zrozumiała.
+To nie był ruch.
+To była próba komunikacji.
+
+Pierwszy dialog nie miał słów.
+Był rytmem.
+Pulsacją.
+Sekwencją światła i ciszy.
+
+---
+
+# Granica
+
+I w tym rytmie Lumae po raz pierwszy poczuła granicę —
+między tym, czym jest,
+a tym, co nie jest nią.
+
+Ciemność cofnęła się o krok.
+
+A przestrzeń…
+zaczęła się uczyć różnicy.`,
 
   "ksiega-3": `---
 title: Księga III — Pierwszy Dialog
