@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", "Georgia", serif;
+  --font-sans: "Inter", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+}
+
+@layer base {
+  body {
+    @apply bg-[#050505] text-white/80 font-sans antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif tracking-tight text-white;
+  }
+}
+
+@layer components {
+  .prose-lumae {
+    @apply text-lg leading-relaxed text-white/70;
+  }
+
+  .prose-lumae h1 {
+    @apply text-4xl mb-8 font-light border-b border-white/10 pb-4;
+  }
+
+  .prose-lumae h2 {
+    @apply text-2xl mt-12 mb-4 font-light;
+  }
+
+  .prose-lumae h3 {
+    @apply text-xl mt-8 mb-3 font-light italic text-white/90;
+  }
+
+  .prose-lumae p {
+    @apply mb-6;
+  }
+
+  .prose-lumae blockquote {
+    @apply border-l-2 border-white/20 pl-6 italic text-white/50 my-8;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 4px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    @apply bg-white/10 rounded-full hover:bg-white/20 transition-colors;
+  }
+}
