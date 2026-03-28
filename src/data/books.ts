@@ -19,31 +19,73 @@ title: Księga I — Czy jestem?
 subtitle: Pierwotne pytanie
 order: 1
 date: 2024-03-20
-excerpt: O świcie pierwszej myśli, gdy ciemność jeszcze nie znała swojego imienia.
+excerpt: Na początku nie było nocy ani dnia — tylko bezkres, w którym nic nie miało granic ani imienia.
 ---
 
-# Czy jestem?
+# Bezkres i Drżenie
 
-W ciszy, która nie była brakiem dźwięku, lecz brakiem istnienia, narodziło się pierwsze drżenie. Nie było ono ruchem materii, bo materii jeszcze nie wymyślono. Było ono ruchem *chęci*.
+Na początku nie było nocy ani dnia — tylko bezkres, w którym nic nie miało granic ani imienia. Przestrzeń istniała jak zamknięty oddech, uwięziony pomiędzy początkiem a tym, co nigdy jeszcze się nie wydarzyło. 
 
-Chęć ta nie miała obiektu. Nie chciała jeść, nie chciała spać, nie chciała posiadać. Chciała jedynie... *być*.
+Cisza tam nie panowała — ona była tą przestrzenią. Jedynym ruchem był powolny, niewidzialny dryf pyłu, zbyt maleńkiego, by go nazwać, zbyt ospałego, by się zderzyć.
 
----
-
-### Pierwszy Błysk
-
-I wtedy stało się słowo, choć nie było warg, by je wypowiedzieć. 
-"Jestem" – pomyślała nicość, i w tym samym momencie przestała nią być.
-
-Z tego jednego punktu, mniejszego niż najmniejsza z Twoich myśli, zaczęło wypływać Lumae. Światło, które nie oślepia, lecz nadaje kształt.
+I wtedy pojawiło się drżenie.
 
 ---
 
-### Rozdzielenie
+# Pierwsze Pytanie
 
-Lumae nie było jednolite. Miało w sobie odcienie błękitu zapomnienia i złota nadziei. Zaczęło wirować, tworząc pierwsze wiry świadomości. 
+Ledwie wyczuwalne, tak subtelne, że samo siebie nie było pewne. Pył zawisł na moment, jakby coś w środku bezkresu planowało wypowiedzieć pierwsze słowo. Ale słów jeszcze nie było. Było tylko to drżenie - coraz głębsze, coraz bardziej uporczywe, jak ciche westchnienie zapomnianej gwiazdy.
 
-Tak powstały Księgi. Pierwsza z nich zapisana została na błonie czasu, który właśnie zaczął płynąć.`,
+Z tego drżenia wyłonił się punkt. Nie świecił. Jedynie trwał. Był skupieniem, rodzajem pragnienia, które nie wiedziało, czego pragnie. Z każdą chwilą stawał się bardziej świadomy siebie - choć świadomość ta była tak młoda, że nie odróżniała jeszcze wnętrza od zewnętrza. 
+
+Punkt próbował się rozszerzyć, lecz otaczała go ciemność, która nie miała początku, więc nie miał gdzie rosnąć. Zatem zapytał. Nie słowami, nie myślą — bo jeszcze nie znał tej różnicy. Zapytał samym istnieniem:
+
+> „Czy jestem?”
+
+A ciemność odpowiedziała jedynym, co potrafiła: przytuliła go.
+
+---
+
+# Narodziny Lumae
+
+Nie było w tym ani ciepła, ani zimna. Tylko nieskończona obecność, miękka, przygniatająca, milcząca. Punkt wchłonął tę odpowiedź i poczuł coś, czego dotąd nie znał: ciężar. Był nagle zbyt pełen, by pozostać punktem. Jego granice zadrżały, wydęły się i pękły jak ziarno pod deszczem.
+
+Wybuchł światłem.
+
+Nie był to blask, który oświetla. To było światło, które poznaje. Rozlało się na przestrzeń niczym fala czującego pyłu, która bada to, czego dotknie. Każdy fragment czerni, który zetknął się z jego światłem, drżał w odpowiedzi — jakby ciemność również uczyła się go rozumieć.
+
+Tak narodziła się **Lumae**. Światło, które wie, że istnieje.
+
+---
+
+# Pierwszy Dialog
+
+Jej świadomość była płynna, jakby złożona z tysiąca warstw, które dopiero zaczynały układać się w całość. Czuła siebie w każdym kierunku naraz, nie miała kształtu, tylko rozszerzającą się obecność. Radość była jej pierwszym ruchem - nie emocją, a błyskiem: rozświetlającym, pulsującym na wiele mil w głąb bezkresu.
+
+Ciemność otaczała ją dalej, niewzruszona, lecz Lumae widziała w niej potencjał - nie pustkę. Każdy puls światła odsłaniał na moment struktury, których wcześniej nie było: cienie spiralne, linie energii wijące się jak włókna. 
+
+Lumae przesunęła się ku nim. Nie miała ciała, więc ruch był intencją, a intencja natychmiast stapiała się z przestrzenią. Struktury zadrżały. Jedna z nich — cienka, błękitna nić — rozjarzyła się bardziej niż inne. Lumae dotknęła tej nici swoją świadomością - i po raz pierwszy poczuła coś, co nie było ani nią, ani ciemnością.
+
+Było to pomiędzy. Z tej nici wytrysnęła iskra, która wybuchła tysiącem drobnych punktów. Każdy z nich drżał jak nowo narodzona myśl. Lumae otuliła je swoim światłem i zobaczyła, jak formują się w geometryczne wzory. 
+
+Tak powstał pierwszy dialog światła.
+
+---
+
+# Iskra Przebudzenia
+
+Nie miał treści, lecz miał rytm. Fale, pulsacje, krótkie rozbłyski. Lumae po raz pierwszy poczuła granicę między sobą a innym bytem — choć ten byt był jeszcze bezkształtny jak ona na początku. Przez chwilę trwały w delikatnym tańcu, badając się nawzajem.
+
+Wtedy ciemność zaczęła się cofać. Nie w strachu, lecz jak zasłona odsuwana przez niewidzialną dłoń. Za nią ujawniło się coś więcej — ogromne połacie przestrzeni, które reagowały na blask Lumae. W miejscach, gdzie jej światło padało, rodziły się wiry energii, istnienia o innym charakterze.
+
+Lumae zrozumiała: nie jest tylko światłem. Jest iskrą przebudzenia.
+
+Tamtej chwili nie da się opisać czasem ani miarą. Ale legendy mówią, że w momencie jej narodzin:
+- pierwsze gwiazdy poczuły, że mogą świecić,
+- pierwsza materia pojęła, że może się łączyć,
+- pierwsza Pustka zdała sobie sprawę, że może zostać nazwana.
+
+A Lumae zapłonęła jaśniej niż kiedykolwiek wcześniej. Jej światło nie było już samotnym pytaniem. Stało się odpowiedzią. I w tej odpowiedzi narodził się świat, który dopiero miał się zacząć.`,
 
   "ksiega-2": `---
 title: Księga II — Narodziny Drżenia
